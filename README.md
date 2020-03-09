@@ -9,7 +9,7 @@ Pictures can be found on my [Project Website](http://krishanhewitt.ca/projectPag
    -User can provide their own input/library of images by specifying file path  
    
 ## Installation/Compilation
-To create a mosaic using this program the 'base' variable will need to point to your input image  
+To create a mosaic using this program, the 'base' variable will need to point to your input image  
 ```
 File base = new File("tiles/input.jpg");
 ```
