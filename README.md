@@ -1,16 +1,12 @@
 ## Mosaic Generator
-This program will take an input image, then use a repo of misc. nature images to generate a mosaic.
+This Java program will take an input image, then use a collection of miscellaneous nature images to generate a mosaic.
 
 ## Screenshots
 Pictures can be found on my [Project Website](http://krishanhewitt.ca/projectPage.php#mosaicDiv).
-
-## Tech/Libraries used
-  -Java8  
-  -EclipseIDE
   
 ## Features
    -User can specify how accurate they want the images to match  
-   -User can provide their own library of images by specifying file path  
+   -User can provide their own input/library of images by specifying file path  
    
 ## Installation/Compilation
 To create a mosaic using this program the 'base' variable will need to point to your input image
